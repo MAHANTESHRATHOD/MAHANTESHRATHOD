@@ -1,6 +1,6 @@
-MAHANTESH RATHOD 
+ Hi i am, MAHANTESH RATHOD !
 
-i am a student
+ B.E  CSE student 
 
 
 ## 🌐 Socials:
